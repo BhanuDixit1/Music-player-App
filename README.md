@@ -1,3 +1,3 @@
 # Music-player-App
-Using Css Html JavaScript
+Using Css Html 
 Check the App - https://bhanudixit1.github.io/Music-player-App/
